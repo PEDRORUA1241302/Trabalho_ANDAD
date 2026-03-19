@@ -10,3 +10,4 @@ import statsmodels.api as sm
 df = pd.read_csv('forestfires.csv')
 df.info()
 df.head()
+#ola
